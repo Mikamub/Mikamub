@@ -8,6 +8,7 @@
 - 🤔 Soy DogLover, soy fan del anime y mangas, tambien una plata en ascenso en Valorant.
 - ⚡ Un dato curioso sobre mi, es que tengo un background de Estilista y Psicologa Clinica, soy una persona que le gusta mucho aprender!.
 - 📫 Puedes encontrarme en
+
   <a href="https://www.linkedin.com/in/mikaella-mu%C3%B1oz/">
   <img align="left" alt="Mikaella Muñoz | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
