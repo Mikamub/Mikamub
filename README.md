@@ -2,7 +2,7 @@
 
 ### Un poco sobre mi:
 
-- 🌱 Actualmente estoy aprendiendo React!.
+- 🌱 Actualmente estoy aprendiendo Docker!.
 - 😄 Mis pronombres son la/ella.
 - 🤔 Aqui vas a encontrar mis repos, con algunos de mis proyectos como estudiante de Laboratoria, te invito a revisarlos.
 - 🤔 Soy DogLover, soy fan del anime y mangas, tambien una plata en ascenso en Valorant.
