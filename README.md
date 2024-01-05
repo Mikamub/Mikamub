@@ -4,7 +4,7 @@
 
 - 🌱 Actualmente estoy aprendiendo Docker!.
 - 😄 Mis pronombres son la/ella.
-- 🤔 Aqui vas a encontrar mis repos, con algunos de mis proyectos como estudiante de Laboratoria, te invito a revisarlos.
+- 🤔 Aqui vas a encontrar mis repos, con algunos de mis proyectos como estudiante de Laboratoria y proyectos independientes, te invito a revisarlos.
 - 🤔 Soy DogLover, soy fan del anime y mangas, tambien una plata en ascenso en Valorant.
 - ⚡ Un dato curioso sobre mi, es que tengo un background de Estilista y Psicologa Clinica, soy una persona que le gusta mucho aprender!.
 
